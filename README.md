@@ -1,11 +1,11 @@
 <p align="center">
   <img src="https://c.radikal.ru/c18/2012/05/54bed54edbe7.png" alt="ABOUT ME" />
   <br>
-  Java junior developer from Russia, Samara
+  <span style="font-weight: bold">Java junior</span> developer from Russia, Samara
 </p>
 
 
-Skills:  
+#Skills:  
 
 
 
