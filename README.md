@@ -9,7 +9,7 @@
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'> 
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='40'> 
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apachemaven.svg' alt='apachemaven' height='40'> 
-  <img src='https://i7.pngflow.com/pngimage/291/852/png-postgresql-computer-icons-database-free-and-open-source-software-logo-head-pgadmin-plpgsql-clipart-thumb.png' alt='postgresql' height='40'> 
+  <img src='https://svgshare.com/i/SM0.svg' alt='postgresql' height='40'> 
   <br>
   <br>
   <br>
