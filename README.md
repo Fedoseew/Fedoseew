@@ -1,5 +1,5 @@
 <p align="center">
-  ABOUT ME
+  SKILLS
   <br>
   <br>
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'> 
@@ -9,6 +9,7 @@
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'> 
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='40'> 
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apachemaven.svg' alt='apachemaven' height='40'> 
+  <br>
   <br>
   <br>
   CONTACTS
