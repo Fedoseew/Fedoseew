@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://a.radikal.ru/a26/2012/a6/52b14e0e2e56.png" alt="ABOUT ME" />
+  ABOUT ME
   <br>
   <br>
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/intellijidea.svg' alt='intellijidea' height='40'>
