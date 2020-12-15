@@ -1,7 +1,8 @@
-### About me
-![](https://www.canva.com/design/DAEQZ6lghmk/HAcDJ5K6TJg2xDlTqOO6Qg/view?utm_content=DAEQZ6lghmk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+<p align="center">
+  <img src="https://c.radikal.ru/c18/2012/05/54bed54edbe7.png" alt="ABOUT ME" />
+</p>
 
-Java junior developer from Russian, Samara
+### Java junior developer from Russian, Samara
 
 Skills:  
 
