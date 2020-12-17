@@ -1,3 +1,4 @@
+<img src='https://cdn.onlinewebfonts.com/svg/img_380260.png' alt='java' height='40'> 
 <p align="center">
   SKILLS
   <br>
@@ -21,3 +22,4 @@
   <a href="https://www.instagram.com/al.burno/?igshid=1dgkjk4ks4aev"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'></a>
   <br>
 </p>
+<p align="right"> <img src='https://cdn.onlinewebfonts.com/svg/img_380260.png' alt='java' height='40'>  </p>
