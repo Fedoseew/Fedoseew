@@ -7,9 +7,9 @@
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>    
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/intellijidea.svg' alt='intellijidea' height='40'>   
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' alt='spring' height='40'>   
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>   
+  <img src='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png' alt='css3' height='40'>   
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>   
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='40'>   
+  <img src='https://cdn.worldvectorlogo.com/logos/git-icon.svg' alt='git' height='40'>   
   <img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png' alt='apachemaven' height='40'>   
   <img src='https://pbs.twimg.com/media/DfqQ5y-XUAIVLu6.png:small' alt='postgresql' height='40'>   
   <img src='https://c.radikal.ru/c41/2012/f3/a73f6ce07279.png' alt='hibernate' height='40'> 
