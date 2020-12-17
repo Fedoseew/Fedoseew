@@ -3,6 +3,7 @@
   SKILLS
   <br>
   <br>
+  
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>    
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/intellijidea.svg' alt='intellijidea' height='40'>   
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' alt='spring' height='40'>   
@@ -10,8 +11,8 @@
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>   
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='40'>   
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apachemaven.svg' alt='apachemaven' height='40'>   
-  <img src='https://svgshare.com/i/SM0.svg' alt='postgresql' height='40'>   
-  <img src='https://c.radikal.ru/c41/2012/f3/a73f6ce07279.png' alt='hibernate' height='40'>   
+  <img src='https://pbs.twimg.com/media/DfqQ5y-XUAIVLu6.png:small' alt='postgresql' height='40'>   
+  <img src='https://c.radikal.ru/c41/2012/f3/a73f6ce07279.png' alt='hibernate' height='40'> 
   <br>
   <br>
   <br>
