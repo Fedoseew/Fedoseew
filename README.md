@@ -2,8 +2,6 @@
 <p align="center">
   SKILLS
   <br>
-  <br>
-  
   <img src='https://www.netocr.com/static/images/else/java.png' alt='java' height='40'>    
   <img src='https://s3.amazonaws.com/media-p.slid.es/uploads/912759/images/5171781/IntelliJ_IDEA_Logo.svg.png' alt='intellijidea' height='40'>   
   <img src='https://www.vippng.com/png/full/29-298653_logo-png-svg-vector-spring-framework-logo.png' alt='spring' height='40'>   
@@ -16,12 +14,11 @@
   <img src='https://c.radikal.ru/c41/2012/f3/a73f6ce07279.png' alt='hibernate' height='40'> 
   <br>
   <br>
-  <br>
   CONTACTS
   <br>
-  <br>
   <a href="https://github.com/Fedoseew"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>  
-  <a href="https://www.instagram.com/al.burno/?igshid=1dgkjk4ks4aev"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'></a>
+  <a href="https://www.instagram.com/al.burno/?igshid=1dgkjk4ks4aev"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>     </a>
   <br>
 </p>
+
 <p align="right"> <img src='https://cdn.onlinewebfonts.com/svg/img_380260.png' alt='java' height='40'>  </p>
