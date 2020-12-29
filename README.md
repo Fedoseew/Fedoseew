@@ -21,7 +21,7 @@
   / CONTACTS /
   <br>
   <br>
-  <a href="https://vk.com/al.burno"><img src='https://www.pinclipart.com/picdir/big/210-2100165_-vk-icon-clipart.png' alt='VK' height='40'></a>   
+  <a href="https://vk.com/al.burno"><img src='https://nyzhnodengi.ru/wp-content/uploads/2020/07/vk.png' alt='VK' height='40'></a>   
   <a href="https://www.instagram.com/al.burno/?igshid=1dgkjk4ks4aev"><img src='https://www.unoclean.com/images/social/Instagram.png' alt='instagram' height='40'></a>   
   <a href="https://github.com/Fedoseew"><img src='http://ninomsu.github.io/img/github1600.png' alt='github' height='40'></a>  
   <br>
