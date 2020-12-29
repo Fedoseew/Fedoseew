@@ -7,7 +7,7 @@
   <img src='https://www.netocr.com/static/images/else/java.png' alt='java' height='40'>    
   <img src='https://s3.amazonaws.com/media-p.slid.es/uploads/912759/images/5171781/IntelliJ_IDEA_Logo.svg.png' alt='intellijidea' height='40'>   
   <img src='https://pbs.twimg.com/media/Dk5LpKtW4AAcvFd.png' alt='androidStudio' height='40'>    
-  <img src='https://www.vippng.com/png/full/29-298653_logo-png-svg-vector-spring-framework-logo.png' alt='spring' height='40'>      
+  <img src='https://www.vippng.com/png/full/29-298653_logo-png-svg-vector-spring-framework-logo.png' alt='spring' height='40'>     
   <img src='https://cdn.worldvectorlogo.com/logos/git-icon.svg' alt='git' height='40'>   
   <img src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png' alt='apachemaven' height='40'>    
   <img src='https://pbs.twimg.com/media/DfqQ5y-XUAIVLu6.png:small' alt='postgresql' height='40'>    
